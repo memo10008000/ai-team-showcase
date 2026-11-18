@@ -1,0 +1,20 @@
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor and temporary files
+*.tmp
+*.bak
+*.swp
+*~
+*.log
+.vscode/
+.idea/
+
+# Python & UV Environments
+.venv/
+.uv_cache/
+.uv_python/
+__pycache__/
+*.pyc
