@@ -122,7 +122,7 @@ The team is grounded in real, verifiable academic research and industry corpora 
 3. **Graduate Management Curriculum:** Royal Roads University Master of Global Management (Cumulative GPA: 3.72 / 4.33, Distinction):
    - MGMT560/565: Corporate Finance & International Accounting
    - MGMT561: Political Geography & International Economics
-   - MGMT562: International Business Strategy (Grade: A+)
+   - MGMT562: International Business Strategy
    - MGMT564: International Marketing
    - MGMT566: Business Ethics, Law & CSR
    - MGMT569: Business Operations & Supply Chain
