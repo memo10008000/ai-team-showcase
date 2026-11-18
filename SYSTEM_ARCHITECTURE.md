@@ -62,7 +62,7 @@ This specification establishes the formal enterprise architecture for Guillermo 
   * **GitHub Copilot / Cursor:** In-editor inline code completion and speculative drafting.
 * **Workspace Invariants:**
   * Canonical root: `C:\Users\gsanc\AI Team`
-  * Forward-slash URI convention (`https://github.com/memo10008000/ai-team-showcase) for universal cross-platform hyperlinking.
+  * Forward-slash URI convention (`...`) for universal cross-platform hyperlinking.
 
 ### Layer 2: Agentic Orchestration & Engine Tiering (Rule 25)
 To balance cognitive reasoning against inference cost and latency, workloads are routed according to the codified 4-tier model allocation strategy:

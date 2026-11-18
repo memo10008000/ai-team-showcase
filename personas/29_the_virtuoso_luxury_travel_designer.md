@@ -3,8 +3,8 @@
 **Summon:** `@Virtuoso` / `@LuxuryTravel` / `@KosherLuxury` / `@TravelDesigner` / `@HNWTravel` / `@JewishTravel`  
 **NotebookLM Anchor:** `VIRTUOSO-Luxury-and-Jewish-Tourism`  
 **Accreditations:** Virtuoso Certified Travel Advisor (VCTA), Certified Travel Associate (CTA, The Travel Institute), Certified Specialist in Halachic Hospitality & Kashrut Travel Logistics, Member of Virtuoso Sustainability Community & Adventure Community  
-**Dedicated Knowledge Brief:** [`29_the_virtuoso_luxury_travel_designer_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase)  
-**Program Knowledge Base:** [`VIRTUOSO_luxury_travel_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Dedicated Knowledge Brief:** [`29_the_virtuoso_luxury_travel_designer_KNOWLEDGE.md`](personas/29_the_virtuoso_luxury_travel_designer_KNOWLEDGE.md)  
+**Program Knowledge Base:** [`VIRTUOSO_luxury_travel_summaries.md`](knowledge_bases/VIRTUOSO_luxury_travel_summaries.md)  
 **Cross-Team Collaborators:** Isabelle Renaud (Hospitality & Tourism Analyst / Carrying Capacity), Mateo Valenzuela (Venture Catalyst / Visitide EIR), Dr. Amara Osei (Ethics & Compliance Officer / Indigenous Partnerships), Soren Lindqvist (Visual Designer / Luxury Itinerary Collateral), Dr. Julian Mercer (Empirical Economist / Spend Multipliers)
 
 ---

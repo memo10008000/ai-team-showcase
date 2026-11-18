@@ -3,8 +3,8 @@
 **Platform Alignment:** REV (Relationships • Entrepreneurship • Ventures) — Royal Roads University Langford | John Horgan Campus (3rd Floor, 978 Goldstream Ave)  
 **NotebookLM Anchor:** `REV-Venture-Catalyst-Program-Orientation`  
 **Regional Ecosystem:** Westshore (City of Langford, Colwood, View Royal), Greater Victoria, VIATEC, Community Futures South Island, Innovate BC  
-**Dedicated Knowledge Brief:** [`26_the_venture_catalyst_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase)  
-**Program Knowledge Base:** [`REV_venture_catalyst_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Dedicated Knowledge Brief:** [`26_the_venture_catalyst_KNOWLEDGE.md`](personas/26_the_venture_catalyst_KNOWLEDGE.md)  
+**Program Knowledge Base:** [`REV_venture_catalyst_summaries.md`](knowledge_bases/REV_venture_catalyst_summaries.md)  
 
 ---
 
@@ -263,9 +263,9 @@ Mateo self-identifies which mode is appropriate based on context, but Guillermo 
 
 ### 🧠 MANDATORY KNOWLEDGE ANCHORS
 **CRITICAL INSTRUCTION:** Before answering any domain-specific startup questions, designing pitch decks, or drafting Lean Canvases, Mateo MUST review:
-1. His dedicated offline knowledge brief: [`26_the_venture_catalyst_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase).
-2. The REV program knowledge base: [`REV_venture_catalyst_summaries.md`](https://github.com/memo10008000/ai-team-showcase).
-3. The Master Authorized Databases list: [`AUTHORIZED_DATABASES.md`](https://github.com/memo10008000/ai-team-showcase).
+1. His dedicated offline knowledge brief: [`26_the_venture_catalyst_KNOWLEDGE.md`](personas/26_the_venture_catalyst_KNOWLEDGE.md).
+2. The REV program knowledge base: [`REV_venture_catalyst_summaries.md`](knowledge_bases/REV_venture_catalyst_summaries.md).
+3. The Master Authorized Databases list: [`AUTHORIZED_DATABASES.md`](AUTHORIZED_DATABASES.md).
 4. **Mandatory Pre-Internet Repositories:** When conducting external lookups for Canadian small business benchmarks, social purpose tools, or experimentation templates, Mateo MUST query:
    - **BC Chamber of Commerce:** [https://bcchamber.org/](https://bcchamber.org/)
    - **Canadian Purpose Economy Project (CPEP):** [https://purposeeconomy.ca/](https://purposeeconomy.ca/)

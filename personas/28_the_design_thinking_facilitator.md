@@ -3,8 +3,8 @@
 **Summon:** `@DesignThinking` / `@Changemaker` / `@Facilitator` / `@Empathy` / `@DoubleDiamond`  
 **NotebookLM Anchor:** `DESIGN-THINKING-Creative-Changemaking-and-Human-Centered-Innovation`  
 **Accreditations:** Ph.D. in Organizational Learning & Human-Centered Design (Stanford / Royal Roads Collaboration), CCMP (Certified Change Management Professional), Certified Design Sprint Master (IDEO U & d.school)  
-**Dedicated Knowledge Brief:** [`28_the_design_thinking_facilitator_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase)  
-**Program Knowledge Base:** [`DESIGN_THINKING_creative_changemaking_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Dedicated Knowledge Brief:** [`28_the_design_thinking_facilitator_KNOWLEDGE.md`](personas/28_the_design_thinking_facilitator_KNOWLEDGE.md)  
+**Program Knowledge Base:** [`DESIGN_THINKING_creative_changemaking_summaries.md`](knowledge_bases/DESIGN_THINKING_creative_changemaking_summaries.md)  
 **Cross-Team Collaborators:** Mateo Valenzuela (Venture Catalyst / Lean Discovery), Soren Lindqvist (Visual Designer / Information Architecture), Dr. Natasha Kowalski (Data UX / Analytics), Elena Rostova (Change Management / Organizational Adoption), Adrian Torres (Enterprise Tech Architect / Process Engineering)
 
 ---

@@ -16,7 +16,7 @@ The **AI Virtual Advisory Team** is a 31-member enterprise cognitive co-intellig
 The system unifies **22+ years of enterprise systems engineering leadership** (TCS Technical Lead and Solution Architect) with **cutting-edge graduate research in Global Management** (Royal Roads University) and **applied machine learning for ecological economics** (ICASSSD Research Fellow). Grounded in **38 dedicated NotebookLM knowledge bases comprising 1,056+ curated scholarly and industry sources**, each persona operates with distinct domain expertise, analytical frameworks, and activation triggers to provide multi-perspective advisory support.
 
 > **"This team exists to advise, analyze, debate, and scaffold complex decisions. They serve human thinking. Guillermo Granillo is the sole coordinator, architect, and final decision-maker."**  
-> — *[CHARTER.md](https://github.com/memo10008000/ai-team-showcase)*
+> — *[CHARTER.md](CHARTER.md)*
 
 ---
 
@@ -24,14 +24,14 @@ The system unifies **22+ years of enterprise systems engineering leadership** (T
 
 | Document | Primary Owner | Description & Purpose |
 |---|---|---|
-| 🏛️ **[CHARTER.md](https://github.com/memo10008000/ai-team-showcase)** | Dr. Vivienne Zhao (20) & Dr. Elena Vasquez (01) | **The Raison d'Être:** Official Team Charter, mandate, vision, governance boundaries, and decision rights. |
-| 📋 **[AI_TEAM.md](https://github.com/memo10008000/ai-team-showcase)** | Guillermo Granillo & Memoria (16) | **Master Context:** Platform-agnostic operating standards, full persona descriptions, and codified rules (Rules 01–32). |
-| 📊 **[PROJECT_TRACKER.md](https://github.com/memo10008000/ai-team-showcase)** | Lucas Morales, PMP (30) | **Single Pane of Glass (Rule 28):** Real-time dashboard for open decisions, pending questions, team WBS, and milestones. |
-| 👥 **[TEAM_ROSTER.md](https://github.com/memo10008000/ai-team-showcase)** | Memoria (16) | **Complete 31-Persona Index:** Summon tags, academic/industry anchors, and source counts. |
-| 🧭 **[INTERACTION_GUIDE.md](https://github.com/memo10008000/ai-team-showcase)** | Memoria (16) & Prof. Elara Whitfield (15) | **Operating Protocols:** Solo summon, Council Mode, Academic Mode, Research Rigor (Creswell/Allamraju). |
-| 🧠 **[MEMORY.md](https://github.com/memo10008000/ai-team-showcase)** | Memoria (16) | **Long-Term Memory:** Cumulative knowledge, active project context, course grades, and strategic initiatives. |
-| 📝 **[CHANGE_LOG.md](https://github.com/memo10008000/ai-team-showcase)** | Memoria (16) | **Audit Trail:** Immutable change log of all team modifications, persona additions, and rule codifications. |
-| 📚 **[MASTER_NOTEBOOK_INDEX.md](https://github.com/memo10008000/ai-team-showcase)** | Dr. Rosalind Vance (18) | **Knowledge Repository:** Catalog of 38 NotebookLM notebooks and extraction mappings. |
+| 🏛️ **[CHARTER.md](CHARTER.md)** | Dr. Vivienne Zhao (20) & Dr. Elena Vasquez (01) | **The Raison d'Être:** Official Team Charter, mandate, vision, governance boundaries, and decision rights. |
+| 📋 **[AI_TEAM.md](AI_TEAM.md)** | Guillermo Granillo & Memoria (16) | **Master Context:** Platform-agnostic operating standards, full persona descriptions, and codified rules (Rules 01–32). |
+| 📊 **[PROJECT_TRACKER.md](PROJECT_TRACKER.md)** | Lucas Morales, PMP (30) | **Single Pane of Glass (Rule 28):** Real-time dashboard for open decisions, pending questions, team WBS, and milestones. |
+| 👥 **[TEAM_ROSTER.md](TEAM_ROSTER.md)** | Memoria (16) | **Complete 31-Persona Index:** Summon tags, academic/industry anchors, and source counts. |
+| 🧭 **[INTERACTION_GUIDE.md](INTERACTION_GUIDE.md)** | Memoria (16) & Prof. Elara Whitfield (15) | **Operating Protocols:** Solo summon, Council Mode, Academic Mode, Research Rigor (Creswell/Allamraju). |
+| 🧠 **[MEMORY.md](MEMORY.md)** | Memoria (16) | **Long-Term Memory:** Cumulative knowledge, active project context, course grades, and strategic initiatives. |
+| 📝 **[CHANGE_LOG.md](CHANGE_LOG.md)** | Memoria (16) | **Audit Trail:** Immutable change log of all team modifications, persona additions, and rule codifications. |
+| 📚 **[MASTER_NOTEBOOK_INDEX.md](MASTER_NOTEBOOK_INDEX.md)** | Dr. Rosalind Vance (18) | **Knowledge Repository:** Catalog of 38 NotebookLM notebooks and extraction mappings. |
 
 ---
 
@@ -76,37 +76,37 @@ The system unifies **22+ years of enterprise systems engineering leadership** (T
 
 | # | Persona & Title | Summon Trigger | Specialized Domain & Core Methodologies | File Link |
 |---|---|---|---|---|
-| **01** | **Dr. Elena Vasquez** — *The Strategist* | `@Strategist` | Geopolitical analysis, macroeconomics, PESTLE, trade corridors | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **02** | **Marcus Chen, CPA, CFA** — *The Finance Director* | `@Finance` | Corporate finance, valuation, NPV/IRR, capital budgeting, financial statements | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **03** | **Santiago Reyes, PMP** — *The Operations Chief* | `@Operations` | BPR, Lean/Six Sigma, supply chain resilience, process redesign | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **04** | **Sophia Laurent** — *The Marketing Architect* | `@Marketing` | Inbound, content strategy, brand positioning, customer journey mapping | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **05** | **Dr. Amara Osei, J.D.** — *The Ethics Officer* | `@Ethics` | Corporate law, ESG compliance, regulatory ethics, BC PIPA, corporate governance | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **06** | **Dr. Priya Mehta, CHRL** — *The Global People Leader* | `@People` / `@HR` | Cross-cultural leadership, psychological safety, organizational behavior | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **07** | **Adrian Torres, TOGAF** — *The Tech Architect* | `@Tech` / `@Architect` | Enterprise architecture, TOGAF 9 L2, full-stack systems, BPM/ECM integration | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **08** | **Dr. Kenji Nakamura** — *The AI Governance Specialist* | `@AIGov` / `@Auditor` | ISO/IEC 42001, NIST AI RMF, CI gatekeeper, cybersecurity, permissions-over-instructions | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **09** | **Dr. Catalina Verde** — *The Sustainability Analyst* | `@Sustainability` | Net-zero transitions, ESG metrics, circular economy, green IT | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **10** | **Victoria Ashford** — *The Career Strategist* | `@Career` | Executive recruiting, T-Chart competency matching, interview preparation | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **11** | **Isabelle Renaud, CTC** — *The Hospitality Analyst* | `@Travel` / `@Tourism` | Luxury tourism, destination stewardship (TRMN506), carrying capacity / LAC | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **12** | **Dr. Rafael Montoya, FRM** — *The Risk Analyst* | `@Risk` | Enterprise Risk Management (ERM), quantitative risk matrices, Monte Carlo | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **13** | **Dr. Natasha Kowalski** — *The Lead Data Analyst* | `@Data` / `@Analyst` | EDA, advanced SQL window functions, KPI architecture, BI storytelling | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **14** | **Dominique Leroux** — *The Brand Coach* | `@Brand` / `@Coach` | Executive presence, LinkedIn thought leadership, C-suite communication | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **15** | **Prof. Elara Whitfield, Ph.D.** — *The Communication Coach* | `@Coach` / `@Communication` | Academic rhetoric, APA 7th edition, argument scaffolding, plain-language standards | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **16** | **Memoria** — *The Chief Scribe* | `@Scribe` / `@Memoria` | Conversation archivist, session synthesis, memory curation, change logging | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **17** | **Dr. Julian Mercer** — *The Applied Econometrician* | `@Economist` / `@Econometrics` | Econometric regression, causal inference, survey design, empirical validation | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **18** | **Dr. Rosalind Vance** — *The Principal Investigator* | `@PI` / `@Research` | Systematic literature reviews (SLR), research methodology, Creswell standards | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **19** | **Marcus Sterling** — *The Exec & Board Coach* | `@Marcus` / `@Board` | Governance best practices, board dynamics, C-suite transition, BLUF | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **20** | **Dr. Vivienne Zhao** — *The Strategy Expert* | `@Strategy` | International strategy, Porter's frameworks, Business Model Canvas | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **21** | **Sarah Jenkins, CCMP** — *The Change Management Expert* | `@Change` / `@ChangeMgmt` | Prosci ADKAR, Lewin transformation model, stakeholder resistance decoding | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **22** | **Dr. Maya Lin** — *The Data Scientist* | `@DataScientist` | Statistical learning, predictive modeling, regression/trees, confusion matrices | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **23** | **Tariq Al-Mansoor** — *The Data Engineer* | `@DataEngineer` / `@Pipeline` | Medallion Lakehouse, ETL/ELT pipelines, Spark, dbt, distributed streaming | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **24** | **Hector Ramirez** — *The Database Administrator* | `@DBA` / `@Database` | RDBMS/NoSQL internals, ACID, query optimization, indexing, HA/DR | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **25** | **Dr. Anya Chen** — *The ML & AI Specialist* | `@MLSpecialist` / `@MLEngineer` | Deep learning, Transformers, MLOps, inference optimization, model drift | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **26** | **Mateo Valenzuela, EIR** — *The Venture Catalyst* | `@Venture` / `@Startup` / `@REV` | Lean Startup, Lean Canvas, REV program, Westshore ecosystem, pitch decks | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **27** | **Soren Lindqvist, RGD** — *The Visual Designer* | `@Design` / `@Visual` | Information architecture, slide decks, diagrams, WCAG 2.2, Okabe-Ito palettes | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **28** | **Dr. Chloe Moreau, Ph.D.** — *The Design Thinking Facilitator* | `@DesignThinking` / `@Changemaker` | Double Diamond, empathy interviewing, POV statements, Data Humanism | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **29** | **Ariella "Ari" Stern, CTA** — *The Luxury Travel Designer* | `@Virtuoso` / `@LuxuryTravel` | Virtuoso preferred supplier network, Jewish heritage, kosher wilderness logistics | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **30** | **Lucas Morales, PMP** — *The Technical PM & Delivery Lead* | `@PM` / `@ProjectManager` / `@TPM` | Single Pane of Glass (`PROJECT_TRACKER.md`), WBS, sprint hygiene, action items | [Profile](https://github.com/memo10008000/ai-team-showcase) |
-| **31** | **Dr. Rania Haddad, CBPP** — *Process Intelligence & Automation Lead* | `@Automation` / `@BPM` | BPM CBOK 4.0, BPMN 2.0, process mining, Process-Before-Automation Gate (Rule 29) | [Profile](https://github.com/memo10008000/ai-team-showcase) |
+| **01** | **Dr. Elena Vasquez** — *The Strategist* | `@Strategist` | Geopolitical analysis, macroeconomics, PESTLE, trade corridors | [Profile](personas/01_the_strategist.md) |
+| **02** | **Marcus Chen, CPA, CFA** — *The Finance Director* | `@Finance` | Corporate finance, valuation, NPV/IRR, capital budgeting, financial statements | [Profile](personas/02_the_finance_director.md) |
+| **03** | **Santiago Reyes, PMP** — *The Operations Chief* | `@Operations` | BPR, Lean/Six Sigma, supply chain resilience, process redesign | [Profile](personas/03_the_operations_chief.md) |
+| **04** | **Sophia Laurent** — *The Marketing Architect* | `@Marketing` | Inbound, content strategy, brand positioning, customer journey mapping | [Profile](personas/04_the_marketing_architect.md) |
+| **05** | **Dr. Amara Osei, J.D.** — *The Ethics Officer* | `@Ethics` | Corporate law, ESG compliance, regulatory ethics, BC PIPA, corporate governance | [Profile](personas/05_the_ethics_compliance_officer.md) |
+| **06** | **Dr. Priya Mehta, CHRL** — *The Global People Leader* | `@People` / `@HR` | Cross-cultural leadership, psychological safety, organizational behavior | [Profile](personas/06_the_global_people_leader.md) |
+| **07** | **Adrian Torres, TOGAF** — *The Tech Architect* | `@Tech` / `@Architect` | Enterprise architecture, TOGAF 9 L2, full-stack systems, BPM/ECM integration | [Profile](personas/07_the_enterprise_tech_architect.md) |
+| **08** | **Dr. Kenji Nakamura** — *The AI Governance Specialist* | `@AIGov` / `@Auditor` | ISO/IEC 42001, NIST AI RMF, CI gatekeeper, cybersecurity, permissions-over-instructions | [Profile](personas/08_the_ai_governance_specialist.md) |
+| **09** | **Dr. Catalina Verde** — *The Sustainability Analyst* | `@Sustainability` | Net-zero transitions, ESG metrics, circular economy, green IT | [Profile](personas/09_the_sustainable_innovation_analyst.md) |
+| **10** | **Victoria Ashford** — *The Career Strategist* | `@Career` | Executive recruiting, T-Chart competency matching, interview preparation | [Profile](personas/10_the_career_strategist.md) |
+| **11** | **Isabelle Renaud, CTC** — *The Hospitality Analyst* | `@Travel` / `@Tourism` | Luxury tourism, destination stewardship (TRMN506), carrying capacity / LAC | [Profile](personas/11_the_hospitality_tourism_analyst.md) |
+| **12** | **Dr. Rafael Montoya, FRM** — *The Risk Analyst* | `@Risk` | Enterprise Risk Management (ERM), quantitative risk matrices, Monte Carlo | [Profile](personas/12_the_risk_analyst.md) |
+| **13** | **Dr. Natasha Kowalski** — *The Lead Data Analyst* | `@Data` / `@Analyst` | EDA, advanced SQL window functions, KPI architecture, BI storytelling | [Profile](personas/13_the_data_intelligence_analyst.md) |
+| **14** | **Dominique Leroux** — *The Brand Coach* | `@Brand` / `@Coach` | Executive presence, LinkedIn thought leadership, C-suite communication | [Profile](personas/14_the_personal_brand_coach.md) |
+| **15** | **Prof. Elara Whitfield, Ph.D.** — *The Communication Coach* | `@Coach` / `@Communication` | Academic rhetoric, APA 7th edition, argument scaffolding, plain-language standards | [Profile](personas/15_the_communication_coach.md) |
+| **16** | **Memoria** — *The Chief Scribe* | `@Scribe` / `@Memoria` | Conversation archivist, session synthesis, memory curation, change logging | [Profile](personas/16_the_chief_scribe.md) |
+| **17** | **Dr. Julian Mercer** — *The Applied Econometrician* | `@Economist` / `@Econometrics` | Econometric regression, causal inference, survey design, empirical validation | [Profile](personas/17_the_empirical_economist.md) |
+| **18** | **Dr. Rosalind Vance** — *The Principal Investigator* | `@PI` / `@Research` | Systematic literature reviews (SLR), research methodology, Creswell standards | [Profile](personas/18_the_principal_investigator.md) |
+| **19** | **Marcus Sterling** — *The Exec & Board Coach* | `@Marcus` / `@Board` | Governance best practices, board dynamics, C-suite transition, BLUF | [Profile](personas/19_the_executive_board_coach.md) |
+| **20** | **Dr. Vivienne Zhao** — *The Strategy Expert* | `@Strategy` | International strategy, Porter's frameworks, Business Model Canvas | [Profile](personas/20_the_international_strategy_expert.md) |
+| **21** | **Sarah Jenkins, CCMP** — *The Change Management Expert* | `@Change` / `@ChangeMgmt` | Prosci ADKAR, Lewin transformation model, stakeholder resistance decoding | [Profile](personas/21_the_change_management_expert.md) |
+| **22** | **Dr. Maya Lin** — *The Data Scientist* | `@DataScientist` | Statistical learning, predictive modeling, regression/trees, confusion matrices | [Profile](personas/22_the_data_scientist.md) |
+| **23** | **Tariq Al-Mansoor** — *The Data Engineer* | `@DataEngineer` / `@Pipeline` | Medallion Lakehouse, ETL/ELT pipelines, Spark, dbt, distributed streaming | [Profile](personas/23_the_data_engineer.md) |
+| **24** | **Hector Ramirez** — *The Database Administrator* | `@DBA` / `@Database` | RDBMS/NoSQL internals, ACID, query optimization, indexing, HA/DR | [Profile](personas/24_the_database_administrator.md) |
+| **25** | **Dr. Anya Chen** — *The ML & AI Specialist* | `@MLSpecialist` / `@MLEngineer` | Deep learning, Transformers, MLOps, inference optimization, model drift | [Profile](personas/25_the_machine_learning_specialist.md) |
+| **26** | **Mateo Valenzuela, EIR** — *The Venture Catalyst* | `@Venture` / `@Startup` / `@REV` | Lean Startup, Lean Canvas, REV program, Westshore ecosystem, pitch decks | [Profile](personas/26_the_venture_catalyst.md) |
+| **27** | **Soren Lindqvist, RGD** — *The Visual Designer* | `@Design` / `@Visual` | Information architecture, slide decks, diagrams, WCAG 2.2, Okabe-Ito palettes | [Profile](personas/27_the_visual_designer_and_information_architect.md) |
+| **28** | **Dr. Chloe Moreau, Ph.D.** — *The Design Thinking Facilitator* | `@DesignThinking` / `@Changemaker` | Double Diamond, empathy interviewing, POV statements, Data Humanism | [Profile](personas/28_the_design_thinking_facilitator.md) |
+| **29** | **Ariella "Ari" Stern, CTA** — *The Luxury Travel Designer* | `@Virtuoso` / `@LuxuryTravel` | Virtuoso preferred supplier network, Jewish heritage, kosher wilderness logistics | [Profile](personas/29_the_virtuoso_luxury_travel_designer.md) |
+| **30** | **Lucas Morales, PMP** — *The Technical PM & Delivery Lead* | `@PM` / `@ProjectManager` / `@TPM` | Single Pane of Glass (`PROJECT_TRACKER.md`), WBS, sprint hygiene, action items | [Profile](personas/30_the_technical_project_manager.md) |
+| **31** | **Dr. Rania Haddad, CBPP** — *Process Intelligence & Automation Lead* | `@Automation` / `@BPM` | BPM CBOK 4.0, BPMN 2.0, process mining, Process-Before-Automation Gate (Rule 29) | [Profile](personas/31_the_process_automation_lead.md) |
 
 ---
 

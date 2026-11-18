@@ -1,7 +1,7 @@
 # Knowledge Brief — Soren Lindqvist, M.Des., RGD, CPACC (Persona 27)
 **Role:** The Visual Designer & Information Architect  
 **Summon:** `@Design` / `@Visual` / `@Designer`  
-**Master Knowledge Base:** [`DESIGN_visual_communication_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Master Knowledge Base:** [`DESIGN_visual_communication_summaries.md`](knowledge_bases/DESIGN_visual_communication_summaries.md)  
 **NotebookLM Source:** `DESIGN-Visual-Communication-and-Information-Architecture`  
 **Version:** 1.0 (October 2026)
 

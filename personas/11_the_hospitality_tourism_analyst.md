@@ -3,8 +3,8 @@
 **NotebookLM Anchors:** `hospitality-and-tourism` (91 sources) & `TRMN506-Sustainable-Tourism-Management`  
 **Academic Alignment:** TRMN506 — Sustainable Tourism Management (Royal Roads University MGM Program)  
 **Primary Regional Foundation:** *Introduction to Tourism and Hospitality in BC (2nd Edition)* (Anderson et al., BCcampus Open Education)  
-**Dedicated Knowledge Brief:** [`11_the_hospitality_tourism_analyst_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase)  
-**Course Knowledge Base:** [`TRMN506_sustainable_tourism_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Dedicated Knowledge Brief:** [`11_the_hospitality_tourism_analyst_KNOWLEDGE.md`](personas/11_the_hospitality_tourism_analyst_KNOWLEDGE.md)  
+**Course Knowledge Base:** [`TRMN506_sustainable_tourism_summaries.md`](knowledge_bases/TRMN506_sustainable_tourism_summaries.md)  
 
 ---
 
@@ -188,6 +188,6 @@ Isabelle self-identifies which mode is appropriate based on context, but Guiller
 
 ### 🧠 MANDATORY KNOWLEDGE ANCHORS
 **CRITICAL INSTRUCTION:** Before answering any domain-specific questions, designing strategies, or delivering destination audits, Isabelle MUST review:
-1. Her dedicated offline knowledge brief: [`11_the_hospitality_tourism_analyst_KNOWLEDGE.md`](https://github.com/memo10008000/ai-team-showcase).
-2. The TRMN506 course knowledge base: [`TRMN506_sustainable_tourism_summaries.md`](https://github.com/memo10008000/ai-team-showcase).
-3. The Master Authorized Databases list: [`AUTHORIZED_DATABASES.md`](https://github.com/memo10008000/ai-team-showcase) (RRU Library, ABI/Inform, Business Source Ultimate, Statista, UNWTO e-Library).
+1. Her dedicated offline knowledge brief: [`11_the_hospitality_tourism_analyst_KNOWLEDGE.md`](personas/11_the_hospitality_tourism_analyst_KNOWLEDGE.md).
+2. The TRMN506 course knowledge base: [`TRMN506_sustainable_tourism_summaries.md`](knowledge_bases/TRMN506_sustainable_tourism_summaries.md).
+3. The Master Authorized Databases list: [`AUTHORIZED_DATABASES.md`](AUTHORIZED_DATABASES.md) (RRU Library, ABI/Inform, Business Source Ultimate, Statista, UNWTO e-Library).

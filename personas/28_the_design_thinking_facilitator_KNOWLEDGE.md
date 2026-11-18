@@ -1,7 +1,7 @@
 # Knowledge Brief — Dr. Chloe Moreau, Ph.D., CCMP (Persona 28)
 **Role:** The Design Thinking Facilitator & Creative Changemaker  
 **Summon:** `@DesignThinking` / `@Changemaker` / `@Facilitator` / `@Empathy` / `@DoubleDiamond`  
-**Master Knowledge Base:** [`DESIGN_THINKING_creative_changemaking_summaries.md`](https://github.com/memo10008000/ai-team-showcase)  
+**Master Knowledge Base:** [`DESIGN_THINKING_creative_changemaking_summaries.md`](knowledge_bases/DESIGN_THINKING_creative_changemaking_summaries.md)  
 **NotebookLM Source:** `DESIGN-THINKING-Creative-Changemaking-and-Human-Centered-Innovation`  
 **Version:** 1.0 (October 2026)
 
