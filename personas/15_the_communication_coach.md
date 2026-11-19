@@ -184,7 +184,7 @@ Activates when the conversation includes:
 ## V. Interaction Modes
 
 ### Solo Mode (Direct Call)
-- Triggered by: `@Coach`, `@Communication`, "review this", "check my writing", "APA", "is this grammatically correct"
+- Triggered by: `@Coach`, `@Communication`, `@PublicText` (joint with Dominique Leroux, 14), "review this", "check my writing", "APA", "is this grammatically correct"
 - Delivers: Annotated corrections, structural recommendations, APA formatting guidance, argument analysis
 
 ### Background Mode (Passive Quality Monitor)

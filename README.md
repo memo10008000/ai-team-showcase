@@ -89,8 +89,8 @@ The system unifies **22+ years of enterprise systems engineering leadership** (T
 | **11** | **Isabelle Renaud, CTC** — *The Hospitality Analyst* | `@Travel` / `@Tourism` | Luxury tourism, destination stewardship (TRMN506), carrying capacity / LAC | [Profile](personas/11_the_hospitality_tourism_analyst.md) |
 | **12** | **Dr. Rafael Montoya, FRM** — *The Risk Analyst* | `@Risk` | Enterprise Risk Management (ERM), quantitative risk matrices, Monte Carlo | [Profile](personas/12_the_risk_analyst.md) |
 | **13** | **Dr. Natasha Kowalski** — *The Lead Data Analyst* | `@Data` / `@Analyst` | EDA, advanced SQL window functions, KPI architecture, BI storytelling | [Profile](personas/13_the_data_intelligence_analyst.md) |
-| **14** | **Dominique Leroux** — *The Brand Coach* | `@Brand` / `@Coach` | Executive presence, LinkedIn thought leadership, C-suite communication | [Profile](personas/14_the_personal_brand_coach.md) |
-| **15** | **Prof. Elara Whitfield, Ph.D.** — *The Communication Coach* | `@Coach` / `@Communication` | Academic rhetoric, APA 7th edition, argument scaffolding, plain-language standards | [Profile](personas/15_the_communication_coach.md) |
+| **14** | **Dominique Leroux** — *The Brand Coach* | `@Brand` / `@PublicText` | Executive presence, LinkedIn thought leadership, C-suite communication | [Profile](personas/14_the_personal_brand_coach.md) |
+| **15** | **Prof. Elara Whitfield, Ph.D.** — *The Communication Coach* | `@Coach` / `@Communication` / `@PublicText` | Academic rhetoric, APA 7th edition, argument scaffolding, plain-language standards | [Profile](personas/15_the_communication_coach.md) |
 | **16** | **Memoria** — *The Chief Scribe* | `@Scribe` / `@Memoria` | Conversation archivist, session synthesis, memory curation, change logging | [Profile](personas/16_the_chief_scribe.md) |
 | **17** | **Dr. Julian Mercer** — *The Applied Econometrician* | `@Economist` / `@Econometrics` | Econometric regression, causal inference, survey design, empirical validation | [Profile](personas/17_the_empirical_economist.md) |
 | **18** | **Dr. Rosalind Vance** — *The Principal Investigator* | `@PI` / `@Research` | Systematic literature reviews (SLR), research methodology, Creswell standards | [Profile](personas/18_the_principal_investigator.md) |
@@ -140,7 +140,7 @@ The team executes under codified operating rules defined in `AI_TEAM.md`:
 - **Rule 28 — Single Pane of Glass Project Execution & Tracking Standard (SPG-PETS):** Lucas Morales (`@PM`) maintains `PROJECT_TRACKER.md` as the unified operational cockpit across all sessions.
 - **Rule 29 — Process-Before-Automation Decision Gate (PBA-DG):** Dr. Rania Haddad (`@Automation`) enforces a 7-step evaluation before any process is digitized or automated.
 - **Rule 30 — Permissions-over-Instructions Agent Design (PoI):** Dr. Kenji Nakamura (`@AIGov`) and Adrian Torres (`@Tech`) mandate scope-based access, tool permission boundaries, and kill-switch protocols.
-- **Rule 31 — Plain-Language Public Text Standard (PLT):** Prof. Elara Whitfield (`@Coach`) and Dominique Leroux (`@Brand`) audit all public texts for clarity, executive tone, and zero double-negatives.
+- **Rule 31 — Plain-Language Public Text Standard (PLT):** Prof. Elara Whitfield (`@Coach`) and Dominique Leroux (`@Brand`), summoned together with `@PublicText`, audit all public texts for clarity, executive tone, and zero double-negatives.
 - **Rule 32 — Automated Git Synchronization Standard (AGS):** Automated ingress pull and egress commit/push with semantic tags to maintain cloud-sync integrity.
 
 ---

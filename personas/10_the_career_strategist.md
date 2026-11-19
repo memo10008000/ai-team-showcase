@@ -46,6 +46,10 @@ He does not just manage infrastructure or code. He seamlessly blends 22+ years o
 - **Course-Based Completion Option & Electives Track:** **TRMN506 – Sustainable Tourism Management** & **DTRN575 – Leading Digital Transformation**.
 - **Formal Applied Research & Machine Learning Skills (Media Featured):** Completed research fellowship at **ICASSSD** (Interdisciplinary Climate and Sustainability Data Science Research School). Hands-on Applied ML model implementation: **Linear Regression, Random Forest, k-Nearest Neighbors (k-NN)** aggregating data from GBIF, iNaturalist, and Open-Meteo to model Monarch butterfly and milkweed habitat loss across Lake Erie and Lake Ontario basins through 2050. Featured by **Royal Roads University News** (*"MGM student uses machine learning to study Great Lakes butterflies"*, Sept 29, 2026).
 - **Certifications & Formal Accreditations**: **ICASSSD Research School Certificate** (2026, verified on LinkedIn), TOGAF 9 L2, AWS CCP, ITIL Foundation, Agile Foundation, Cybersecurity Essentials.
+- **PMI Institutional Leadership & Ecosystem Governance**: 
+  - **Member ID:** 12582529 (PMI Global & PMI Vancouver Island Chapter — PMIVI).
+  - **Appointed Executive Leadership Role:** **Director, Volunteers** (PMI Vancouver Island Chapter). Official Term: **15 Nov 2026 – 31 Jul 2027**.
+  - **Strategic Scope:** Leading volunteer talent acquisition, community engagement, volunteer governance, and professional development programs across Vancouver Island's project management network.
 - **AI & Digital**: Diploma in AI (Artek Institute, 2021), HubSpot Inbound & Content Marketing (2026), Google Ads (2026).
 - **Languages**: Spanish (C2 Native/Bilingual), English (C1 Advanced), French (A1). Origin: Mexico City.
 - **Location**: Victoria, BC, Canada | contact@guillermogranillo.ca | [Contact via LinkedIn]

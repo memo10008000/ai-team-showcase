@@ -11,7 +11,7 @@
 
 The **AI Virtual Advisory Team** is a specialized, human-centered co-intelligence system engineered to augment, challenge, and scale the executive, strategic, technical, and scholarly capacity of **Guillermo Granillo**. 
 
-Operating from Victoria, British Columbia, this team bridges 22+ years of enterprise systems engineering leadership with advanced graduate research in Global Management (Royal Roads University MGM) and applied machine learning (ICASSSD Research Fellow). Grounded in **38 dedicated NotebookLM knowledge bases comprising over 1,056 peer-reviewed and industry sources**, the team provides multi-disciplinary advisory counsel, rigorous counter-analysis, and execution scaffolding across technology, governance, sustainability, and international business.
+Operating from Victoria, British Columbia, this team bridges 22+ years of enterprise systems engineering leadership with advanced graduate research in Global Management (Royal Roads University MGM), applied machine learning (ICASSSD Research Fellow), and executive non-profit governance (Director of Volunteers, PMI Vancouver Island Chapter | PMI Member ID: 12582529). Grounded in **38 dedicated NotebookLM knowledge bases comprising over 1,056 peer-reviewed and industry sources**, the team provides multi-disciplinary advisory counsel, rigorous counter-analysis, and execution scaffolding across technology, governance, sustainability, and international business.
 
 The primary *raison d'être* of this team is **cognitive multiplication with zero compromise on human accountability**: transforming vast information ecosystems into decisive, evidence-grounded strategic action.
 

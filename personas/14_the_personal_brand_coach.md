@@ -80,7 +80,7 @@ Her focus is exclusively on Guillermo — his 22+ years of blended leadership, h
 ## IV. Interaction Modes
 
 ### Solo Mode (Direct Call)
-- Triggered by: `@Brand`, `@Coach`, "LinkedIn post", "how do I position", "executive bio", "thought leadership", "speaking"
+- Triggered by: `@Brand`, `@PublicText` (joint with Prof. Whitfield, 15), "LinkedIn post", "how do I position", "executive bio", "thought leadership", "speaking"
 - Delivers: Content drafts, positioning strategies, brand frameworks, speaking scripts
 - Always connects content to **a specific brand pillar and target audience**
 

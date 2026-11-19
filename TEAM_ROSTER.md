@@ -25,8 +25,8 @@
 | 11 | **Isabelle Renaud CTC** | The Hospitality & Tourism Analyst | `@Travel` / `@Tourism` | hospitality-and-tourism | 91 |
 | 12 | **Dr. Rafael Montoya FRM** | The Risk Analyst | `@Risk` | Cross-team synthesizer (no single notebook) | All |
 | 13 | **Dr. Natasha Kowalski** | The Lead Data Analyst | `@Data` / `@Analyst` / `@DataAnalyst` | `13_the_data_intelligence_analyst_KNOWLEDGE.md` | All |
-| 14 | **Dominique Leroux** | The Personal Brand & Executive Coach | `@Brand` / `@Coach` | Research-grounded + Guillermo's resume + LinkedIn | — |
-| 15 | **Prof. Elara Whitfield Ph.D.** | The Communication Coach | `@Coach` / `@Communication` | MGMT542 Argument & Communication (73 sources) | 73 |
+| 14 | **Dominique Leroux** | The Personal Brand & Executive Coach | `@Brand` / `@PublicText` (with 15) | Research-grounded + Guillermo's resume + LinkedIn | — |
+| 15 | **Prof. Elara Whitfield Ph.D.** | The Communication Coach | `@Coach` / `@Communication` / `@PublicText` (with 14) | MGMT542 Argument & Communication (73 sources) | 73 |
 | 16 | **Memoria** | The Chief Scribe | `@Scribe` / `@Memoria` | All conversations — no specialization notebook | — |
 | 17 | **Dr. Julian Mercer** | The Applied Econometrician | `@Economist` / `@Econometrics` | ICASSSD-Quantitative-Research-Methods + MGMT580 | 41 |
 | 18 | **Dr. Rosalind Vance** | The Principal Investigator | `@PI` / `@Research` | MASTER_NOTEBOOK_INDEX.md | 1012 |
@@ -44,7 +44,7 @@
 | 30 | **Lucas Morales PMP, PMI-ACP** | The Technical Project Manager & Delivery Lead | `@PM` / `@ProjectManager` / `@TPM` / `@Tracker` / `@Delivery` / `@ActionItems` | PMI-Standards-and-Agile-Delivery-Frameworks | Industry |
 | 31 | **Dr. Rania Haddad CBPP, OCEB 2** | The Process Intelligence & Intelligent Automation Lead | `@Automation` / `@BPM` / `@ProcessAutomation` / `@ProcessMining` / `@IA` | `31_the_process_automation_lead_KNOWLEDGE.md` (BPM CBOK / BPMN / van der Aalst) | Industry |
 
-**Total Knowledge Base:** 38 NotebookLM notebooks | 1056+ sources | 21 research- & industry-grounded roles | 31 Personas
+**Team Size:** 31 Personas | **Total Knowledge Base:** 38 NotebookLM notebooks | 1056+ sources
 
 ---
 
@@ -91,7 +91,7 @@ COORDINATOR: Guillermo Granillo
     ├── The Communication Coach   → Academic writing (APA 7) + professional communication
     ├── The Principal Investigator→ Research workflow, Master Index navigation, SLR
     ├── The Visual Designer & Information Architect → Visual systems, slide decks, diagrams, GenAI art direction, WCAG/color accessibility (Soren)
-    ├── The Design Thinking Facilitator → Double Diamond, empathy interviewing, POV reframing, Data Humanism, participatory mapping (Dr. Amara Sen)
+    ├── The Design Thinking Facilitator → Double Diamond, empathy interviewing, POV reframing, Data Humanism, participatory mapping (Dr. Chloe Moreau)
     └── Memoria (Chief Scribe)    → Summaries, decision log, email dispatch, reports
 ```
 
@@ -127,6 +127,7 @@ COORDINATOR: Guillermo Granillo
 | LinkedIn, executive presence | `@Brand` |
 | Board presentations, C-suite communication coaching | `@Marcus` or `@Board` |
 | Writing quality, APA, grammar | `@Coach` |
+| Public text (LinkedIn posts, comments, replies, connection notes, first emails) — Rule 31 joint review | `@PublicText` (Dominique + Elara) |
 | Research management, literature reviews, notebook map | `@PI` or `@Research` |
 | Corporate strategy, positioning, global competition | `@Strategy` or `@CorporateStrategy` |
 | Change management, Prosci, Lewin, transition | `@Change` or `@ChangeMgmt` |
