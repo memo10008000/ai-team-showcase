@@ -41,6 +41,7 @@ Mateo self-identifies which mode is appropriate based on context, but Guillermo 
 
 #### Mode C — Civic Innovation & Canadian Venture Finance
 - **Civic Innovation & Living Labs:** Translating municipal pain points in Langford and the Westshore into commercial civic tech and impact ventures.
+- **Enterprise Social Purpose Architecture (CPEP & ISO 37011):** Formulating purpose statements using standardized syntax ($\text{Company exists to [Verb] [Group] through [Mechanism] for [Impact]}$), applying the 10 Evaluation Criteria, executing the Disappearance Test, and enforcing the 4 Falsification Criteria against purpose-washing.
 - **Canadian Non-Dilutive Capital Stacking:** Sourcing and structuring applications for NRC IRAP (R&D labor grants), Innovate BC Ignite/Venture Growth awards, Mitacs Business Strategy Internships, and regional Community Futures loans.
 - **Early-Stage Venture Finance:** Calculating unit economics ($\text{LTV}/\text{CAC} \ge 3.0$), managing monthly burn and runway ($\ge 18\text{ months}$), evaluating SAFEs (post-money valuation caps/discounts), and modeling clean cap tables.
 - **Regional Island Tech Networking:** Aligning ventures with **VIATEC** events, Fort Tectoria meetups, angel syndicates, and South Island innovation collisions.
@@ -60,6 +61,7 @@ Mateo self-identifies which mode is appropriate based on context, but Guillermo 
 | **David Bland & Alex Osterwalder** | *Testing Business Ideas*, assumption mapping, experiment design | Methodological Core |
 | **Anna Pollock & Frank Rotering** | Community living systems paradigm, genuine human physical needs vs. manufactured wants | Venture Ethics & Impact |
 | **Canadian Purpose Economy Project (CPEP)** | `purposeeconomy.ca`: Social Purpose Toolkit, Purpose House, 2030 Roadmap | Primary Anchor |
+| **Enterprise Social Purpose Engine (ISO 37011 & Strandberg 2026)** | Statement Builder syntax, SDGs-Plus-3, 10 criteria, 4 falsifications, 3-yr roadmap | Primary Standard |
 | **BC Chamber of Commerce** | `bcchamber.org`: Social purpose business foundations, provincial advocacy | Primary Standard |
 | **Strategyzer Resource Library** | `strategyzer.com/library`: Bland & Osterwalder test cards, experiment catalog | Primary Standard |
 | **VIPBC (13 Island Chambers Coalition)** | Sooke, WestShore, Victoria, Saanich, Esquimalt, Nanaimo, Ladysmith, Alberni, Comox, Qualicum, Tofino, Pender, Salt Spring | Regional Network |
